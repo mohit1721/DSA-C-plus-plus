@@ -19,4 +19,5 @@
 
 # Homework 
 ## 5. Number of laser beams in the bank
-- **Leetcode:** [Link](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)✅Done
+- **Leetcode:** [Link](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)PENDING
+- 

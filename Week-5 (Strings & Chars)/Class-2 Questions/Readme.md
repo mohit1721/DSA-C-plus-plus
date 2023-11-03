@@ -1,5 +1,5 @@
 # Week -2 Questions
-
+//Q-4 PENDING
 ## 1. Remove All Adjacent Duplicates In String
 ### Difficulty: Easy
 - **Leetcode**: [Link](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)✅Done
